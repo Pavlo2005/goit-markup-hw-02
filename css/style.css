@@ -138,3 +138,14 @@ body {
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 }
+
+
+/* footer */
+
+.footer {
+	background-color: #2e2f42;
+}
+
+.footer .title>span {
+	color: #f4f4fd;
+}
