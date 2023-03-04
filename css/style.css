@@ -19,7 +19,7 @@ body {
 	font-family: "Raleway", sans-serif;
 	font-weight: 800;
 	font-size: 18px;
-	line-height: 1.33;
+	line-height: 1.17;
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 	color: #4d5ae5;
@@ -96,8 +96,8 @@ body {
 
 /* Info-text */
 
-.info-text {
-	background-color: #2e2f42;
+.info-text-title {
+	visibility: hidden;
 }
 
 
@@ -107,8 +107,8 @@ body {
 .info-text-title {
 	font-size: 36px;
 	line-height: 1.11;
-	letter-spacing: 0.02em;
 	text-align: center;
+	letter-spacing: 0.02em;
 	text-transform: capitalize;
 	color: #2e2f42;
 }
