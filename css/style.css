@@ -11,6 +11,24 @@ body {
 	list-style: none;
 }
 
+.hidden-title {
+	visibility: hidden;
+}
+
+.standard-title {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.standard-text {
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+}
+
 /* header */
 
 /* Nav */
@@ -96,11 +114,6 @@ body {
 
 /* Info-text */
 
-.info-text-title {
-	visibility: hidden;
-}
-
-
 
 /* Info-pictures */
 
@@ -124,21 +137,6 @@ body {
 	text-transform: capitalize;
 	color: #2e2f42;
 }
-
-.team-person-title {
-	font-weight: 500;
-	font-size: 20px;
-	line-height: 1.2;
-	letter-spacing: 0.02em;
-	color: #2e2f42;
-}
-
-.team-person-text {
-	font-size: 16px;
-	line-height: 1.5;
-	letter-spacing: 0.02em;
-}
-
 
 /* footer */
 
